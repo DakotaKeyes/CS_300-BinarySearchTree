@@ -1,10 +1,10 @@
+CS_300
+Data Structure Algorithms: Analysis & Design
+BinarySearchTree
+
 Requirements & Rubric
 
-# CS_300-BinarySearchTree
-CS_300 Binary Search Tree pseudocode and cpp 
-
 Overview
-GitHub
 
 eBid_Monthly_Sales.csv (larger set of 12,023 bids)
 eBid_Monthly_Sales_Dec_2016.csv (smaller set of 76 bids)
@@ -60,12 +60,14 @@ Display	Menu:
 3. Find Bid
 4. Remove Bid
 9. Exit
+
 Enter choice: 1	Menu:
 1. Load Bids
 2. Display All Bids
 3. Find Bid
 4. Remove Bid
 9. Exit
+
 Enter choice: 3
 Output	
 Loading CSV file eBid_Monthly_Sales.csv
