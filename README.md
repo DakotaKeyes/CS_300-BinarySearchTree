@@ -34,19 +34,16 @@ You will need to perform the following steps to complete this activity:
 
 Setup: Begin by creating a new C++ project with a project type of "Hello World C++ Project".
 
-Name the project “BinarySearchTree”. Remember to pick the correct compiler in Toolchains and click Finish. This will create a simple BinarySearchTree.cpp source file under the /src directory.
-Download the starter program files and copy them to the project’s /src directory, replacing the existing auto-generated ones. Remember to right-click on the project in the Project Explorer pane on the left and Refresh the project so it adds all the new files to the src folder underneath.
-Because this activity uses C++ 11 features, you may need to add the -std=c++11 compiler switch to the miscellaneous settings.
 ---------------------------------------------------------------------------------------------------------------------------
-**Task 1: Define structures for tree node and housekeeping variables.
+***Task 1: Define structures for tree node and housekeeping variables.
 
-**Task 2: Implement inserting a bid into the tree.
+Task 2: Implement inserting a bid into the tree.
 
-**Task 3: Implement removing a bid from the tree.
+Task 3: Implement removing a bid from the tree.
 
-**Task 4: Implement searching the tree for a bid.
+Task 4: Implement searching the tree for a bid.
 
-Task 5: Complete the function to display all bids. Note that you may be able to reuse a portion of your code from a previous assignment to save you time. Look for where you have used a Node structure to implement a linked list.
+Task 5: Complete the function to display all bids. Note that you may be able to reuse a portion of your code from a previous assignment to save you time. Look for where you have used a Node structure to implement a linked list.***
 ---------------------------------------------------------------------------------------------------------------------------
 
 Here is sample output from running the completed program:
